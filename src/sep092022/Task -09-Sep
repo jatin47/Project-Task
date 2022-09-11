@@ -1,0 +1,26 @@
+Today Core Java Question:
+==========================
+
+-->number formate for the give number
+
+amount is : 100000 o/p : 1,00,000
+
+-->Convert one data formate to another data formate
+
+data is 09-09-2022 , it should convert into 09-SEP-2022
+
+-->no.of chanracters of the given string or paragrah, find vowles (a,e,i,o,u), how many successors
+
+Top brands for Phones and Electronics. Latest trends in Fashion. Free Shipping available* Vast selection. Best prices.
+
+
+
+o/p : no.of characters
+no.of words
+no.of vowels
+
+a -- how many times
+e -- how many times
+i -- how many times
+
+successors words - 2 (st count is 2)

@@ -1,0 +1,12 @@
+Core Java Task :
+===============
+
+i/p: cardnumber : 0521132487654098
+
+o/p :
+
+1. If the cardnumber length is not 16 then throw user defined exception "invalid cardnumber"
+
+2. Cardnumber should be print as : XXXXXXXXXX654098
+
+3. If the cardnumber 13th, 14th digits are 00 then primary card else non primay card
