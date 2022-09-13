@@ -14,6 +14,7 @@ public class VowelCount {
         for (String s : word) {
             count++;
         }
+        System.out.println("s");
         System.out.println(count);
 
         // //Vowels count

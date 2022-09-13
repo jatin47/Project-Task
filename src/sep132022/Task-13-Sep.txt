@@ -1,0 +1,37 @@
+customer.txt
+============
+
+id name dob addr email mob accnum balance
+1111~sreenivas~24-03-2010~hyderabd~sreenu.sreenutech@gmail.com~9876543123~052111400582139~10,00,000~jublihills~hdfc
+1111~sreenivas~24-03-2010~hyderabd~sreenu.sreenutech@gmail.com~9876543123~052111400582139~10,00,000~jublihills~hdfc
+1111~sreenivas~24-03-2010~hyderabd~sreenu.sreenutech@gmail.com~9876543123~052111400582139~10,00,000~jublihills~hdfc
+1111~sreenivas~24-03-2010~hyderabd~sreenu.sreenutech@gmail.com~9876543123~052111400582139~10,00,000~jublihills~hdfc
+1111~sreenivas~24-03-2010~hyderabd~sreenu.sreenutech@gmail.com~9876543123~052111400582139~10,00,000~jublihills~hdfc
+:
+:
+
+
+w.a.p to read the file print the customer details?
+
+1. read file using java.io or scanner
+
+2. read line by line
+
+3. split the feilds/columns using ~(tild). i.e. tokenizer the line using separtor ~symbol
+
+4. stroe into java object
+
+public class Customer{
+
+private String custid;
+private String name;
+private String dob;
+private String addr;
+
+
+
+}
+
+Sysout("customer details : "+customer);
+
+
