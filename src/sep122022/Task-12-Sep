@@ -1,0 +1,9 @@
+Core Java Task
+---------------
+
+w.a.p to find no.of lines in java program whic has written by the devloper? ie you wil not consider comments,imports,package stmt ...etc
+
+      src 
+      
+      	java.lang - String,Thread
+      	java.util - List,
